@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="50%">
 
 [![Hello World, I'm Niwarthana Sathyanjali!](assets/header.gif)](https://github.com/Niwarthana00)
 </div>
