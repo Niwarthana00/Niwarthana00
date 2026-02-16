@@ -20,7 +20,7 @@
 <p>
 Passionate about Python, React, Next.js, Node.js, NestJS, Django, Flutter (and FlutterFlow), Supabase, and crafting intuitive UI/UX with impactful data visualizations. </p>
 
-<p>Always learning, always building 🚀</p>
+### <p>Always learning, always building 🚀</p>
 
 - ✨ Lifelong learner — every line of code teaches something new.
 - 🌱 Constantly exploring the latest tools and techniques; no day passes without growth.
