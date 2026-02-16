@@ -1,6 +1,7 @@
 <div align="center" width="50%">
 
-[![Hello World, I'm Niwarthana Sathyanjali!](assets/header.gif)](https://github.com/Niwarthana00)
+<!-- [![Hello World, I'm Niwarthana Sathyanjali!](assets/header.gif)](https://github.com/Niwarthana00) -->
+<img src="assets/header.gif" width="100%"/>
 </div>
 
 <!--Night Owl image-->
