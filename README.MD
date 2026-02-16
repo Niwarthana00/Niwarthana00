@@ -30,5 +30,5 @@ Passionate about Python, React, Next.js, Node.js, NestJS, Django, Flutter (and F
 <!--Footer-->  
 <!-- color=gradient / color=auto -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img height="100px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
